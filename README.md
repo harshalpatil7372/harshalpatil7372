@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate frontend developer from India</h3>
 <img align="right" alt = "Coding" width="400" src="https://downloadhdwallpapers.in/wp-content/uploads/2018/09/Round-Sphere-Moving-Animated-Gif-Epic.gif">
 
 - 🔭 I’m currently working on **Rust Project**
@@ -12,13 +12,13 @@
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/harshalpatil73/articles](https://auth.geeksforgeeks.org/user/harshalpatil73/articles)
 
-- 💬 Ask me about **MERN,Natural Language Processing**
+- 💬 Ask me about **MERN, Natural Language Processing, Blockchain, web3 stuff **
 
 - 📫 How to reach me **harshalpatil7372@gmail.com**
 
 - ⚡ Fun fact **I love to meet new peoples**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/harshalpatil73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshalpatil73" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshalpatil73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshalpatil73" height="30" width="40" /></a>
