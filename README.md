@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshal</h1>
 
-<img align="right" alt = "Coding" width="400" src="https://i.pinimg.com/originals/4f/f0/65/4ff0650a75cd3cfaf6c6b713391588ab.gif">
+<img align="right" alt = "Coding" width="400" src="https://downloadhdwallpapers.in/wp-content/uploads/2018/09/Round-Sphere-Moving-Animated-Gif-Epic.gif">
 
 **🔭 I’m currently working on:**  
 Rust Project
