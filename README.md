@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt = "Coding" width="400" src="https://media1.tenor.com/m/E4hXK8ghqGYAAAAC/beautiful-down.gif">
+<img align="right" alt = "Coding" width="400" src="https://downloadhdwallpapers.in/wp-content/uploads/2018/09/Round-Sphere-Moving-Animated-Gif-Epic.gif">
 
 - 🔭 I’m currently working on **Rust Project**
 
