@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt = "Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/front-end-developer-5315367-4453020.mp4">
 
 - 🔭 I’m currently working on **Rust Project**
 
