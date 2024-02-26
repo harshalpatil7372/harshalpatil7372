@@ -1,24 +1,32 @@
 <h1 align="center">Hi 👋, I'm Harshal</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
-<img align="right" alt = "Coding" width="400" src="https://downloadhdwallpapers.in/wp-content/uploads/2018/09/Round-Sphere-Moving-Animated-Gif-Epic.gif">
 
-- 🔭 I’m currently working on **Rust Project**
+<img align="right" alt = "Coding" width="400" src="https://i.pinimg.com/originals/4f/f0/65/4ff0650a75cd3cfaf6c6b713391588ab.gif">
 
-- 🌱 I’m currently learning **Rust language, Devops**
+**🔭 I’m currently working on:**  
+Rust Project
 
-- 👯 I’m looking to collaborate on **AI Projects**
+**🌱 I’m currently learning:**  
+Rust language, Devops
 
-- 👨‍💻 All of my projects are available at [https://harshalportfolio7.netlify.app/](https://harshalportfolio7.netlify.app/)
+**👯 I’m looking to collaborate on:**  
+AI Projects
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/harshalpatil73/articles](https://auth.geeksforgeeks.org/user/harshalpatil73/articles)
+**👨‍💻 My Portfolio is here:**  
+[https://harshalportfolio7.netlify.app/](https://harshalportfolio7.netlify.app/)
 
-- 💬 Ask me about **MERN, Natural Language Processing, Blockchain, web3 stuff **
+**📝 I regularly write articles on:**  
+[https://auth.geeksforgeeks.org/user/harshalpatil73/articles](https://auth.geeksforgeeks.org/user/harshalpatil73/articles)
 
-- 📫 How to reach me **harshalpatil7372@gmail.com**
+**💬 Ask me about:**  
+MERN, Natural Language Processing, Blockchain, web3 stuff
 
-- ⚡ Fun fact **I love to meet new peoples**
+**📫 How to reach me:**  
+harshalpatil7372@gmail.com
 
-<h2 align="left">Connect with me:</h2>
+**⚡ Fun fact:**  
+I love to meet new peoples
+
+<h2 align="left">Socials:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/harshalpatil73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshalpatil73" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshalpatil73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshalpatil73" height="30" width="40" /></a>
